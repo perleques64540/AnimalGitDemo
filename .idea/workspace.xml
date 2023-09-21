@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef87b3fb-2a15-42a6-a297-4db834737097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695292916552</updated>
-      <workItem from="1695292917461" duration="864000" />
+      <workItem from="1695292917461" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="Initial version">
       <created>1695293172331</created>
@@ -81,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695293322249</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added the animal interface">
+      <created>1695293912930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695293912930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the animal interface">
+      <created>1695293935101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695293935101</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial version" />
     <MESSAGE value="Some improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some improvements" />
+    <MESSAGE value="Added the animal interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the animal interface" />
   </component>
 </project>
